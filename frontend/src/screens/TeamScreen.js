@@ -4,7 +4,7 @@ import CardDeck from 'react-bootstrap/CardDeck'
 
 import group from '../images/heros/DSC02881.jpg'
 import corey from '../images/heros/_DSC7743.jpg'
-import logan from '../images/heros/jeepMud.jpg'
+import logan from '../images/heros/loganZ.jpg'
 import vinson from '../images/heros/m3.JPG'
 import chris from '../images/heros/threeWheel3.jpg'
 import andrew from '../images/heros/g35.jpg'
@@ -39,8 +39,8 @@ export default function TeamScreen() {
 					<Card.Body>
 						<Card.Title>Corey Diliberto</Card.Title>
 						<Card.Text>
-							This is a wider card with supporting text below as a natural lead-in to
-							additional content. This content is a little bit longer.
+							2006 White Nissan 350Z
+
       					</Card.Text>
 					</Card.Body>
 					<Card.Footer>
@@ -48,11 +48,12 @@ export default function TeamScreen() {
 					</Card.Footer>
 				</Card>
 				<Card>
-					<Card.Img variant="top" src={corey} />
+					<Card.Img variant="top" src={logan} />
 					<Card.Body>
 						<Card.Title>Logan Surrat</Card.Title>
 						<Card.Text>
-							This card has supporting text below as a natural lead-in to additional content.{' '}
+							2006 Brickyard Red 350Z
+			 
 						</Card.Text>
 					</Card.Body>
 					<Card.Footer>
@@ -64,9 +65,7 @@ export default function TeamScreen() {
 					<Card.Body>
 						<Card.Title>Vinson Cernuto</Card.Title>
 						<Card.Text>
-							This is a wider card with supporting text below as a natural lead-in to
-							additional content. This card has even longer content than the first to
-							show that equal height action.
+							2001 Laguna Seca Blue M3
       				</Card.Text>
 					</Card.Body>
 					<Card.Footer>
@@ -78,9 +77,7 @@ export default function TeamScreen() {
 					<Card.Body>
 						<Card.Title>Chris Rios</Card.Title>
 						<Card.Text>
-							This is a wider card with supporting text below as a natural lead-in to
-							additional content. This card has even longer content than the first to
-							show that equal height action.
+							2008 Dark Blue 350Z
       				</Card.Text>
 					</Card.Body>
 					<Card.Footer>
@@ -95,8 +92,7 @@ export default function TeamScreen() {
 					<Card.Body>
 						<Card.Title>Andrew Grindle</Card.Title>
 						<Card.Text>
-							This is a wider card with supporting text below as a natural lead-in to
-							additional content. This content is a little bit longer.
+							2014 Purple G35X LS3 Swap
       					</Card.Text>
 					</Card.Body>
 					<Card.Footer>
@@ -108,7 +104,7 @@ export default function TeamScreen() {
 					<Card.Body>
 						<Card.Title>Camel</Card.Title>
 						<Card.Text>
-							This card has supporting text below as a natural lead-in to additional content.{' '}
+							1992 Sr20 S13 Coupe 
 						</Card.Text>
 					</Card.Body>
 					<Card.Footer>

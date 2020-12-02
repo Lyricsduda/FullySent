@@ -1,6 +1,6 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import logo from './images/logos/logo.png';
+import logo from './images/Logos/logo.png';
 import { useDispatch, useSelector } from 'react-redux';
 import { signout } from './actions/userActions';
 
